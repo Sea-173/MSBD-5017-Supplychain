@@ -16,7 +16,7 @@ With the rapid development of globalization and e-commerce, the complexity of su
 
 ## 2 Function
 
-We plan to set two characters, commodity and user, and a user can be both Seller and Consumer.
+We plan to set two characters, commodity and user, and a user can be both Supplier and Consumer.
 
 1. Login
    1. Both roles have separate blockchain addresses for login.
