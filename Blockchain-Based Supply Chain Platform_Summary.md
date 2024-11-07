@@ -1,6 +1,6 @@
 # Project Summary
 
-**Project Title: Blockchain-based supply chain platform**
+**Project Title: Blockchain-Based Supply Chain Platform**
 
 
 
