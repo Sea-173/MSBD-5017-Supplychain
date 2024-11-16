@@ -41,3 +41,11 @@ We plan to set two characters, commodity and user, and a user can be both Suppli
 ## 4 Building Plan
 
 We plan to use the React framework to build the front end, implementing the interface display of the aforementioned functionalities. In terms of integrating with the blockchain, we intend to introduce the Truffle framework to assist in storing data on the blockchain.
+
+
+
+
+
+
+
+发展商业模式
